@@ -14,4 +14,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, email jwmiller006@outlook.com, a response should be expected within two to three days
+To report a vulnerability, email jwmiller006@outlook.com, a response should be expected within two to three days. Updates will be applied to the project: CS Library
